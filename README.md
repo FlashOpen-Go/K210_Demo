@@ -7,3 +7,5 @@
 ### standalone
 ##### ControlLED
 - LED控制测试程序，上电后LED会闪烁
+##### uart
+- 串口测试程序，上位机发送回显
