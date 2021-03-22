@@ -1,0 +1,11 @@
+{
+    "name": "uart_project",
+    "version": "1.0.0",
+    "type": "executable",
+    "dependency": {
+        "kendryte/standalone-sdk": "develop"
+    },
+    "source": [
+        "src/main.c"
+    ]
+}
