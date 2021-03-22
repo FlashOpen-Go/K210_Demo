@@ -1,0 +1,21 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "name": "Default",
+            "defines": [],
+            "compilerPath": "H:/K210IDE/KendryteIDE/LocalPackage/toolchain/bin/riscv64-unknown-elf-g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "compileCommands": "d:/K210Project/standalone/ControlLED/.vscode/compile_commands.backup.json",
+            "includePath": [
+                "H:/K210IDE/KendryteIDE/LocalPackage/toolchain/riscv64-unknown-elf/include",
+                "H:/K210IDE/KendryteIDE/LocalPackage/toolchain/lib/gcc/riscv64-unknown-elf/8.2.0/include",
+                "H:/K210IDE/KendryteIDE/LocalPackage/toolchain/lib/gcc/riscv64-unknown-elf/8.2.0/include-fixed",
+                "H:/K210IDE/KendryteIDE/LocalPackage/toolchain/riscv64-unknown-elf/include/c++/8.2.0",
+                "H:/K210IDE/KendryteIDE/LocalPackage/toolchain/riscv64-unknown-elf/include/c++/8.2.0/riscv64-unknown-elf"
+            ]
+        }
+    ]
+}
