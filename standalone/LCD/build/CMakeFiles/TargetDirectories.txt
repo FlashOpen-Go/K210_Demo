@@ -1,0 +1,9 @@
+D:/K210Project/standalone/LCD/build/CMakeFiles/LCD_Project.dir
+D:/K210Project/standalone/LCD/build/CMakeFiles/edit_cache.dir
+D:/K210Project/standalone/LCD/build/CMakeFiles/rebuild_cache.dir
+D:/K210Project/standalone/LCD/build/kendryte_standalone-sdk/CMakeFiles/kendryte_standalone-sdk.dir
+D:/K210Project/standalone/LCD/build/kendryte_standalone-sdk/CMakeFiles/edit_cache.dir
+D:/K210Project/standalone/LCD/build/kendryte_standalone-sdk/CMakeFiles/rebuild_cache.dir
+D:/K210Project/standalone/LCD/build/kendryte_lcd-nt35310-standalone-driver/CMakeFiles/kendryte_lcd-nt35310-standalone-driver.dir
+D:/K210Project/standalone/LCD/build/kendryte_lcd-nt35310-standalone-driver/CMakeFiles/edit_cache.dir
+D:/K210Project/standalone/LCD/build/kendryte_lcd-nt35310-standalone-driver/CMakeFiles/rebuild_cache.dir

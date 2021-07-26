@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bsp.h": "c",
+        "printf.h": "c",
+        "nt35310.h": "c"
+    }
+}
